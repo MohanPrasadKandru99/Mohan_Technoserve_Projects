@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/byte-buddy-1.8.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/Hibernate Files-20211215T062211Z-001.zip"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/hibernate-commons-annotations-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/hibernate-core-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/javassist-3.23.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/jsp-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovel/Downloads/JARFILES/servlet-api-2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
